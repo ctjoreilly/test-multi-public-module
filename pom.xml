@@ -39,7 +39,7 @@
     <repository>
       <id>bintray-ctjoreilly-test-maven-repository</id>
       <name>ctjoreilly-test-maven-repository</name>
-      <url>https://api.bintray.com/maven/ctjoreilly/test-maven-repository/test-public-package-1/;publish=1</url>
+      <url>https://api.bintray.com/maven/ctjoreilly/test-maven-repository/test-public-package-2/;publish=1</url>
     </repository>
   </distributionManagement>
 
